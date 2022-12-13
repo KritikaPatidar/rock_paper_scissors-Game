@@ -10,12 +10,12 @@ m.config(bg = "purple")
 
 # image 
 
-image_r1 = ImageTk.PhotoImage(Image.open("rock 1.png"))
-image_p1 = ImageTk.PhotoImage(Image.open("paper 1.png"))
-image_s1 = ImageTk.PhotoImage(Image.open("scissors 1.png"))
-image_r2 = ImageTk.PhotoImage(Image.open("rock 2.png"))
-image_p2 = ImageTk.PhotoImage(Image.open("paper 2.png"))
-image_s2 = ImageTk.PhotoImage(Image.open("scissors 2.png"))
+image_r1 = ImageTk.PhotoImage(Image.open("D:\\PYTHON\\rps\\Rock1.png"))
+image_p1 = ImageTk.PhotoImage(Image.open("D:\\PYTHON\\rps\\Paper1.png"))
+image_s1 = ImageTk.PhotoImage(Image.open("D:\\PYTHON\\rps\\Scissors1.png"))
+image_r2 = ImageTk.PhotoImage(Image.open("D:\\PYTHON\\rps\\Rock2.png"))
+image_p2 = ImageTk.PhotoImage(Image.open("D:\\PYTHON\\rps\\Paper2.png"))
+image_s2 = ImageTk.PhotoImage(Image.open("D:\\PYTHON\\rps\\Scissors2.png"))
 
 #label
 
